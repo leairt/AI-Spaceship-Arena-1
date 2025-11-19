@@ -7,7 +7,7 @@ A pathfinding visualization project where spaceships navigate grid-based maps us
 AI Spaceship Arena 1 is a pathfinding simulator where a spaceship must navigate from its starting position to goal positions on a grid map while avoiding obstacles. The project visualizes different search algorithms solving the same pathfinding problem, allowing comparison of their efficiency and behavior.
 
 <div align="center">
-<img src="screenshots/intro.png">
+<img src="screenshots/intro.PNG">
 </div>
 
 ## Example
